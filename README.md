@@ -17,19 +17,13 @@ Before running the project, please ensure that you have the following dependenci
 
 To set up the project, follow these steps:
 
-1. Clone the repository to your local machine:
-
-   ```
-   git clone https://github.com/VikasPoute/Task-Management-System.git
-   ```
-
-2. Navigate to the project directory:
+1. Navigate to the project directory:
 
    ```
    cd Task-Management-System
    ```
 
-3. Set up the frontend:
+2. Set up the frontend:
 
    - Navigate to the frontend directory:
 
@@ -43,7 +37,7 @@ To set up the project, follow these steps:
      npm install
      ```
 
-4. Set up the backend:
+3. Set up the backend:
 
    - Navigate to the backend directory:
 
@@ -54,12 +48,12 @@ To set up the project, follow these steps:
    - Import the project into your preferred Java IDE (e.g., [IntelliJ IDEA](https://www.jetbrains.com/idea/), [Eclipse](https://www.eclipse.org/ide/)).
    - Resolve the dependencies specified in the `pom.xml` file using your IDE or [Maven](https://maven.apache.org/).
 
-5. Configure the database connection:
+4. Configure the database connection:
 
    - Open the `backend/src/main/resources/application.properties` file.
    - Modify the values in this file to match your MySQL database configuration (e.g., database name, username, password).
 
-6. Build the project:
+5. Build the project:
 
    - Build the Angular frontend:
 
@@ -69,12 +63,12 @@ To set up the project, follow these steps:
 
    - Build the Java Spring Boot backend using your IDE or Maven.
 
-7. Run the project:
+6. Run the project:
 
    - Start the Java Spring Boot backend server using your IDE or Maven.
    - The frontend will be automatically served by the backend server.
 
-8. Open a web browser and visit `http://localhost:8080` to access the Task Management System.
+7. Open a web browser and visit `http://localhost:8080` to access the Task Management System.
 
 ## Usage
 
@@ -95,14 +89,6 @@ Contributions are welcome! If you would like to contribute to this project, plea
 2. Create a new branch for your feature or bug fix.
 3. Commit your changes and push them to your fork.
 4. Submit a pull request detailing your changes.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](vikaspoute@gmail.com) file for more information.
-
-## Contact
-
-If you have any questions or suggestions regarding this project, please contact the project owner at [vikaspoute@gmail.com]
 
 ---
 
